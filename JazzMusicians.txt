@@ -1,0 +1,10 @@
+Name          Instrument  born died number of recording played on
+Paul Chambers Bass        1935 1969 743
+Ron Carter    Bass        1937 2018 2456
+Jimmy Blanton Bass        1918 1942 8
+Miles Davis   Trumpet     1926 1991 456
+Louis Armstrong Trumpet   1901 1971 178
+Duke Ellington Piano      1899 1974 56
+John Coltrane Tenor      1926 1967 96
+Charlie Parket Alto       1920 1955 71
+
